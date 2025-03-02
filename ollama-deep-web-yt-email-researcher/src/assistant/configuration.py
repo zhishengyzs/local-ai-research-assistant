@@ -27,7 +27,7 @@ class Configuration:
 
 
     # New configuration for YouTube and Email
-    youtube_api_key: Optional[str] = 'AIzaSyCqpZtZ7zbtlReOmZY8BD7lkDRSF_tewLI'
+    youtube_api_key: Optional[str] = 'deleted for privacy'
     email_recipient: Optional[str] = 'xxxxx'
     smtp_server: Optional[str] = 'smtp.mail.columbia.edu'
     smtp_port: Optional[int] = 587
